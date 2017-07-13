@@ -1,2 +1,4 @@
 # Web-Scrapper
-An application of web crawling using python
+
+## An application to browse the data, available on websites using Python library.
+
