@@ -47,7 +47,6 @@ data using APIs.
 
 - For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
 
-<br />
 <a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank"> https://doc.scrapy.org/en/latest/intro/overview.html </a>
 
 
