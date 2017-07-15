@@ -35,7 +35,7 @@ listing at the site. With the developed python script (using Scrapy) we can stor
 - To store the file in csv Format Run 
 		`scrapy runspider edugorillatask.py -o output.csv`
 - View the output using `cat output.csv`		
-- You can navigate to the project directory and open the output.csv file with your supported application.
+- You can navigate to the project directory and open the output.csv file with your supported application also.
 
 
 ## Framework 
