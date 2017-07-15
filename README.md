@@ -20,7 +20,7 @@ When the script will run using scrapy utility it'll fetch the name and email-ids
 listing at the site. With the developed python script (using Scrapy) we can stored the same into CSV format.  
 
 ## Prerequisite
-- Python 2/3. 
+- Python 2.7/3. 
 - `Twisted Python package` (An asynchronous networking framework written in Python. An extensible framework for Python programming).
 - `Scrapy/BeautifulSoup Framework`.
 - Background of XML, HTML, CSS.
