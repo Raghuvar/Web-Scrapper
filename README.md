@@ -19,6 +19,12 @@
 When the script will run using scrapy utility it'll fetch the name and email-ids of all the schools 
 listing at the site. With the developed python script (using Scrapy) we can stored the same into CSV format.  
 
+
+## Main Running Python Script 
+
+- Navigate to `/Web_Scraping/Web_Scraping/spiders/edugorillatask.py`
+
+
 ## Prerequisite
 - Python 2.7/3. 
 - `Twisted Python package` (An asynchronous networking framework written in Python. An extensible framework for Python programming).
