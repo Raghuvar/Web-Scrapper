@@ -15,8 +15,8 @@
 ## Problem
 
 - The python script will hit the URLs [http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset=0](http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset=0). And it'll hit all the link available on that particular site.
-When the script will run using scrapy utility it'll fetch the name and email-ids of the listing schools 
-available in the site. Finally it can be stored into CSV format.  
+When the script will run using scrapy utility it'll fetch the name and email-ids of all the schools 
+listing at the site. With the developed python script (using Scrapy) we can stored the same into CSV format.  
 
 ## Prerequisite
 - Python 2/3. 
@@ -45,7 +45,7 @@ data which can be used a wide range of the applications and make the work easier
 data using APIs. 
 
 - For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
-[https://doc.scrapy.org/en/latest/intro/overview.html](https://doc.scrapy.org/en/latest/intro/overview.html)
+<a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank">https://doc.scrapy.org/en/latest/intro/overview.html</a>
 
 
 ## Author
