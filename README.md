@@ -64,7 +64,7 @@ data using APIs.
 - For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
 <a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank"> https://doc.scrapy.org/en/latest/intro/overview.html </a>
 
-- The minimal versions which Scrapy is tested against are:
+- The minimal versions which Scrapy is tested against are: <br />
 	`Twisted 14.0` <br />
 	`lxml 3.4` <br />
 	`pyOpenSSL 0.14`
