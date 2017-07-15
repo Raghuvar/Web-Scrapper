@@ -44,8 +44,8 @@ listing at the site. With the developed python script (using Scrapy) we can stor
 data which can be used a wide range of the applications and make the work easier. It's also can be used to extract the 
 data using APIs. 
 
--For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
-<a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank">https://doc.scrapy.org/en/latest/intro/overview.html</a>
+-For more information about installing, creating and working on web-scraping using Scrapy, Please visit: <br />
+<a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank"> https://doc.scrapy.org/en/latest/intro/overview.html </a>
 
 
 ## Author
