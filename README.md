@@ -23,7 +23,7 @@ listing at the site. With the developed python script (using Scrapy) we can stor
 - `Twisted Python package` (An asynchronous networking framework written in Python. An extensible framework for Python programming).
 - `Scrapy/BeautifulSoup Framework`.
 - Background of XML, HTML, CSS.
-
+- Works on Linux, Windows, Mac OSX, BSD
 
 ## Setup
 
