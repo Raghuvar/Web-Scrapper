@@ -25,6 +25,16 @@ listing at the site. With the developed python script (using Scrapy) we can stor
 - Navigate to `/Web_Scraping/Web_Scraping/spiders/edugorillatask.py`
 
 
+## Files Description
+
+- `/Web_Scraping/scrapy.cfg` : deploy configuration file
+- `/Web_Scraping/Web_Scraping/__init.py__` : project's Python module, we'll import our code from here.
+- `/Web_Scraping/Web_Scraping/items.py` : project items definition file.
+- `/Web_Scraping/Web_Scraping/pipelines.py` : project pipelines file.
+- `/Web_Scraping/Web_Scraping/settings.py` : project setting file.
+- `/Web_Scraping/Web_Scraping/spiders/__init.py__` : a directory where we'll later put our spiders.
+
+
 ## Prerequisite
 - Python 2.7/3. 
 - `Twisted Python package` (An asynchronous networking framework written in Python. An extensible framework for Python programming).
@@ -53,6 +63,12 @@ data using APIs.
 
 - For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
 <a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank"> https://doc.scrapy.org/en/latest/intro/overview.html </a>
+
+- The minimal versions which Scrapy is tested against are:
+	`Twisted 14.0`
+	`lxml 3.4`
+	`pyOpenSSL 0.14`
+
 
 
 ## Author
