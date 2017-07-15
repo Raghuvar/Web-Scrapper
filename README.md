@@ -1,7 +1,6 @@
 <p align="center">
 	<h3 align="center"> An application tool written in python, used to extract and browse the data available on the websites. </h3>
 </p>
-=======
 
 
 ## Table of Contents
@@ -12,34 +11,31 @@
 - [Authors](#authors)
 - [Getting Help](#getting-help)
 
-=======
 
 ## Problem
 
-## The python script will hit the URLs [http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset=0](http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset=0). And it'll hit all the link available on that particular site.
+- The python script will hit the URLs [http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset=0](http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset=0). And it'll hit all the link available on that particular site.
 When the script will run using scrapy utility it'll fetch the name and email-ids of the listing schools 
 available in the site. Finally it can be stored into CSV format.  
 
 ## Prerequisite
-- Python 2/3 
-- Twisted Python package (An asynchronous networking framework written in Python. An extensible framework for Python programming)
-- Scrapy/BeautifulSoup Framework
-- Background of XML, HTML
+- Python 2/3. 
+- `Twisted Python package` (An asynchronous networking framework written in Python. An extensible framework for Python programming).
+- `Scrapy/BeautifulSoup Framework`.
+- Background of XML, HTML, CSS.
 
-=======
 
 ## Setup
 
-- Clone the directory into your local machine (using git clone <https://github.com/uname/yourapplication.git>.
-- Navigate to the cloned directory (cd Web-Scraper).
+- Clone the directory into your local machine (using `git clone <name_of_application>`).
+- Navigate to the cloned directory (`cd Web-Scrapper`).
 - Move to the `Spiders` directory.
-- Run `scrapy runspider edugorillatask.py<name_of_pythonScript>` to run the python script using scrapy framework
+- Run `scrapy runspider edugorillatask.py<name_of_pythonScript>` 
 - To store the file in csv Format Run 
 		`scrapy runspider edugorillatask.py -o output.csv`
 - View the output using `cat output.csv`		
 - You can navigate to the project directory and open the output.csv file with your supported application.
 
-=======
 
 ## Framework 
 
@@ -51,16 +47,15 @@ data using APIs.
 - For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
 [https://doc.scrapy.org/en/latest/intro/overview.html](https://doc.scrapy.org/en/latest/intro/overview.html)
 
-=======
 
 ## Author
 
-- Raghuvar Prajapati, 
-  Undergrad, B.Tech(CSE)
+- Raghuvar Prajapati, <br />
+  Undergrad, B.Tech(CSE) <br />
   IIIT-Vadodara
 
-=======
 
 ## Getting Help
 
-If you need any help installing, using the application, or any suggestion please do drop a mail  to <a href="raghuvarprajapati@gmail.com">raghuvarprajapati@gmail.com</a>.
+If you need any help installing, using the application, or any suggestion please do drop a mail to : <br />
+ <a href="raghuvarprajapati@gmail.com">raghuvarprajapati@gmail.com</a>.
