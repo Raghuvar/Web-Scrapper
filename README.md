@@ -65,8 +65,8 @@ data using APIs.
 <a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank"> https://doc.scrapy.org/en/latest/intro/overview.html </a>
 
 - The minimal versions which Scrapy is tested against are:
-	`Twisted 14.0`
-	`lxml 3.4`
+	`Twisted 14.0` <br />
+	`lxml 3.4` <br />
 	`pyOpenSSL 0.14`
 
 
