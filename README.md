@@ -46,7 +46,6 @@ data which can be used a wide range of the applications and make the work easier
 data using APIs. 
 
 - For more information about installing, creating and working on web-scraping using Scrapy, Please visit:
-
 <a href="https://doc.scrapy.org/en/latest/intro/overview.html" target="_blank"> https://doc.scrapy.org/en/latest/intro/overview.html </a>
 
 
