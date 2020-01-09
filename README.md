@@ -68,17 +68,3 @@ data using APIs.
 	`Twisted 14.0` <br />
 	`lxml 3.4` <br />
 	`pyOpenSSL 0.14`
-
-
-
-## Author
-
-- Raghuvar Prajapati, <br />
-  Undergrad, B.Tech(CSE) <br />
-  IIIT-Vadodara
-
-
-## Getting Help
-
-If you need any help installing, using the application, or any suggestions please feel free to drop a mail to : <br />
- <a href="raghuvarprajapati@gmail.com">raghuvarprajapati@gmail.com</a>.
